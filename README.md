@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Ceihiro!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%7C+Aspiring+Web+Developer%0ALearning+HTML%2C+CSS%2C+JS%2C+and+React%0AExcited+to+Build+Cool+Stuff!" alt="Typing SVG" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%7C+Aspiring+Web+Developer;Learning+HTML%2C+CSS%2C+JS%2C+and+React;Excited+to+Build+Cool+Stuff!" alt="Typing SVG" /> </div>
 
 ---
 
