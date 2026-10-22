@@ -1,16 +1,71 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2744,100:0d1b2a&height=160&section=header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2744,100:0d1b2a&height=160&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=160&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2744,100:0d1b2a&height=160&section=header" />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7EB8D4&center=true&vCenter=true&width=500&lines=Web+Dev+%C2%B7+Mobile+Dev+%C2%B7+IT+Infrastructure;Always+building%2C+always+learning)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7EB8D4&center=true&vCenter=true&width=500&lines=Web+Dev+%C2%B7+Mobile+Dev+%C2%B7+IT+Infrastructure;Always+building%2C+always+learning" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=1e3a5f&center=true&vCenter=true&width=500&lines=Web+Dev+%C2%B7+Mobile+Dev+%C2%B7+IT+Infrastructure;Always+building%2C+always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7EB8D4&center=true&vCenter=true&width=500&lines=Web+Dev+%C2%B7+Mobile+Dev+%C2%B7+IT+Infrastructure;Always+building%2C+always+learning" />
+</picture>
 </div>
 
 ---
 
-## 🛠 Stack
+<div align="center">
+
+### 📊 𝐒𝐭𝐚𝐭𝐬
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ceihiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ceihiro&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&rank_icon=github" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ceihiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceihiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceihiro&layout=compact&theme=default&hide_border=true&bg_color=ffffff" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceihiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ceihiro&theme=tokyonight&hide_border=true&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ceihiro&theme=default&hide_border=true&background=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=Ceihiro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
-### Web
+### 🐍 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ceihiro/Ceihiro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ceihiro/Ceihiro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ceihiro/Ceihiro/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🛠 𝐒𝐭𝐚𝐜𝐤
+
+<div align="center">
+
+### 𝐖𝐞𝐛
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,19 +73,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-### Mobile & Game Dev
+### 𝐌𝐨𝐛𝐢𝐥𝐞 & 𝐆𝐚𝐦𝐞 𝐃𝐞𝐯
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-### Learning
+### 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 𝐓𝐨𝐨𝐥𝐬
+![VS Code:](https://img.shields.io/badge/VS_Code:-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -39,32 +94,47 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Ceihiro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceihiro&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7eb8d4&line=478CBF&point=ffffff" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+### ✍️ 𝐑𝐞𝐜𝐞𝐧𝐭 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
+
+*No recent articles yet — but something is always cooking.*
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>💻 Code. Explore. Build. Repeat!</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" alt="Fire" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 𝐂𝐨𝐝𝐞. 𝐄𝐱𝐥𝐨𝐫𝐞. 𝐁𝐮𝐢𝐥𝐝. 𝐑𝐞𝐩𝐞𝐚𝐭!
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" alt="Fire" />
 
 **⭐ If you like what you see, drop a star on my repos!**
-**Thanks for visiting! Keep exploring, keep learning! 🚀**
+**Thanks for visiting! Keep exploring, keep learning! **
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a2744,100:0a0f1e&height=120&section=footer" />
+<br />
+
+![](https://komarev.com/ghpvc/?username=Ceihiro&color=blue&style=flat&label=profile+views)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a2744,100:0a0f1e&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a5b4fc,50:c7d2fe,100:e0e7ff&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a2744,100:0a0f1e&height=120&section=footer" />
+</picture>
+
 </div>
